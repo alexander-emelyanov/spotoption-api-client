@@ -1,5 +1,7 @@
 # SpotOption platform API client
 
+[![StyleCI](https://styleci.io/repos/55415629/shield)](https://styleci.io/repos/55415629)
+
 This repository contains PHP Client for SpotOption platform.
 
 SpotOption is a trading platform for binary options.
